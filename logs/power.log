@@ -1,0 +1,156 @@
+[2014-04-19 08:10:05.137] [INFO] power - Test
+[2014-04-19 08:10:05.268] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805268
+
+[2014-04-19 08:10:05.269] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805269
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.270] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805270
+
+[2014-04-19 08:10:05.271] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397887805271
+
+[2014-04-19 08:13:56.745] [INFO] power - Test
+[2014-04-19 08:13:56.787] [INFO] power - 
+Loading... http://mobile.10mila.se
+Time: 1397888036787
+
+[2014-04-19 08:13:56.789] [INFO] power - 
+Loading... http://10mila.se
+Time: 1397888036789
+
+[2014-04-19 08:13:56.789] [INFO] power - 
+Loading... http://dev.10milatv.se
+Time: 1397888036789
+
+[2014-04-19 08:13:56.789] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036789
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.790] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036790
+
+[2014-04-19 08:13:56.791] [INFO] power - 
+Loading... http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1
+Time: 1397888036791
+
+[2014-04-19 08:14:27.121] [WARN] power - UP SLOW ; Website: dev.10milatv.se (Paywall) ; Time: 1397888067120 ; Status: UP SLOW ; Message:OK ; Timetaken: 324
+[2014-04-19 08:14:27.294] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888067294 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.298] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888067298 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.303] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888067303 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.314] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888067314 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.322] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888067322 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.323] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888067323 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.328] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888067328 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.332] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888067332 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:27.667] [WARN] power - UP SLOW ; Website: mobile.10mila.se (Internet) ; Time: 1397888067666 ; Status: UP SLOW ; Message:OK ; Timetaken: 876
+[2014-04-19 08:14:27.703] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888067703 ; Status: UP SLOW ; Message:OK ; Timetaken: 908
+[2014-04-19 08:14:56.997] [INFO] power - UP ; Website: dev.10milatv.se (Paywall) ; Time: 1397888096997 ; Status: UP ; Message:OK ; Timetaken: 200
+[2014-04-19 08:14:57.169] [WARN] power - UP SLOW ; Website: mobile.10mila.se (Internet) ; Time: 1397888097169 ; Status: UP SLOW ; Message:OK ; Timetaken: 373
+[2014-04-19 08:14:57.203] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888097203 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.209] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888097208 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.218] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888097218 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.222] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888097222 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.227] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888097227 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.232] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888097232 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.237] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888097237 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.242] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888097242 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:14:57.494] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888097494 ; Status: UP SLOW ; Message:OK ; Timetaken: 697
+[2014-04-19 08:15:26.907] [INFO] power - UP ; Website: mobile.10mila.se (Internet) ; Time: 1397888126907 ; Status: UP ; Message:OK ; Timetaken: 109
+[2014-04-19 08:15:26.994] [INFO] power - UP ; Website: dev.10milatv.se (Paywall) ; Time: 1397888126994 ; Status: UP ; Message:OK ; Timetaken: 196
+[2014-04-19 08:15:27.201] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888127201 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.208] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888127208 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.215] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888127215 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.219] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888127219 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.226] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888127226 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.231] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888127231 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.236] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888127236 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.241] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888127241 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:27.497] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888127497 ; Status: UP SLOW ; Message:OK ; Timetaken: 699
+[2014-04-19 08:15:56.907] [INFO] power - UP ; Website: mobile.10mila.se (Internet) ; Time: 1397888156907 ; Status: UP ; Message:OK ; Timetaken: 109
+[2014-04-19 08:15:56.990] [INFO] power - UP ; Website: dev.10milatv.se (Paywall) ; Time: 1397888156990 ; Status: UP ; Message:OK ; Timetaken: 190
+[2014-04-19 08:15:57.216] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888157216 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.221] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888157221 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.249] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888157249 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.255] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888157255 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.260] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888157260 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.270] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888157270 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.275] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888157275 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.280] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888157280 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:15:57.523] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888157523 ; Status: UP SLOW ; Message:OK ; Timetaken: 724
+[2014-04-19 08:16:26.909] [INFO] power - UP ; Website: mobile.10mila.se (Internet) ; Time: 1397888186909 ; Status: UP ; Message:OK ; Timetaken: 109
+[2014-04-19 08:16:26.997] [INFO] power - UP ; Website: dev.10milatv.se (Paywall) ; Time: 1397888186997 ; Status: UP ; Message:OK ; Timetaken: 196
+[2014-04-19 08:16:27.208] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888187208 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.221] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888187221 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.225] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888187225 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.230] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888187230 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.236] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888187236 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.240] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888187240 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.245] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888187245 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.251] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888187251 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:27.590] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888187590 ; Status: UP SLOW ; Message:OK ; Timetaken: 790
+[2014-04-19 08:16:56.912] [INFO] power - UP ; Website: mobile.10mila.se (Internet) ; Time: 1397888216912 ; Status: UP ; Message:OK ; Timetaken: 111
+[2014-04-19 08:16:57.004] [INFO] power - UP ; Website: dev.10milatv.se (Paywall) ; Time: 1397888217004 ; Status: UP ; Message:OK ; Timetaken: 198
+[2014-04-19 08:16:57.216] [ERROR] power - DOWN ; Website: Power via su00433-174 (TAM External4) ; Time: 1397888217216 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.221] [ERROR] power - DOWN ; Website: Power via su00281-173 (TAM External2) ; Time: 1397888217221 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.228] [ERROR] power - DOWN ; Website: Power via su00400 (Backend 2) ; Time: 1397888217228 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.233] [ERROR] power - DOWN ; Website: Power via su00399 (Backend 1) ; Time: 1397888217233 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.238] [ERROR] power - DOWN ; Website: Power via Internet BC SE(Full Path) ; Time: 1397888217238 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.242] [ERROR] power - DOWN ; Website: Power via Internet BC US(Full Path) ; Time: 1397888217242 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.247] [ERROR] power - DOWN ; Website: Power via su00433-173 (TAM External3) ; Time: 1397888217247 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.253] [ERROR] power - DOWN ; Website: Power via su00281-172 (TAM External1) ; Time: 1397888217253 ; Status: DOWN ; Message:Not Found ; Timetaken: 
+[2014-04-19 08:16:57.832] [WARN] power - UP SLOW ; Website: 10mila.se ; Time: 1397888217832 ; Status: UP SLOW ; Message:OK ; Timetaken: 1026

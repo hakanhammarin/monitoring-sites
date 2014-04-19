@@ -1,5 +1,6 @@
 
 
+var timers = '10';
 var Ping = require('./lib/ping'),
     websites = [
         // {
@@ -13,145 +14,96 @@ var Ping = require('./lib/ping'),
             // timeout: 30
         // },
         {
-            name: 'Power via Internet VRRP(Full Path)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://power.husqvarnagroup.com:80',
+            name: 'mobile.10mila.se (Internet)',
+			url: 'http://mobile.10mila.se',
+			proxy: 'http://mobile.10mila.se:80',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : 'mobile.10mila.se',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
         {
-            name: 'Power via Internet BC 1(Full Path)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://94.126.81.129:80',
+            name: '10mila.se',
+			url: 'http://10mila.se',
+			proxy: 'http://10mila.se:80',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : '10mila.se',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
         {
-            name: 'Power via Internet BC 2(Full Path)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://94.126.81.130:80',
+            name: 'dev.10milatv.se (Paywall)',
+			url: 'http://dev.10milatv.se',
+			proxy: 'http://dev.10milatv.se:80',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : 'dev.10milatv.se',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
 		{
-            name: 'Power via Internet BC US(Full Path)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://usproxy.hvwan.net:80',
+            name: 'OLA Startlista (Arena)',
+			url: 'http://192.168.1.23/teamtracker/startlist?searchstring=',
+			proxy: 'http://192.168.1.23:8080',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : '1.1.1.1',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
 		{
-            name: 'Power via Internet BC SE(Full Path)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://seproxy.hvwan.net:80',
+            name: 'OLA Toplist Damer (Arena)',
+			url: 'http://192.168.1.23/teamtracker/toplist?classId=2',
+			proxy: 'http://192.168.1.23:8080',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : '1.1.1.1',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
-        },
-        // {
-            // name: 'Power via Fiddler (Full Path)',
-			// url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			// proxy: 'http://localhost:9999',
-			// headers: {
-				// 'host' : 'power.husqvarnagroup.com',
-				// 'Pragma' : 'no-cache',
-				// 'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
-			
-				// },
-            // timeout: 30
-        // },
-		{
-            name: 'Power via su00399 (Backend 1)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://su00399.hvwan.net:80',
+        },{
+            name: 'OLA Resultat Damer (Arena)',
+			url: 'http://192.168.1.23/teamtracker/resultlist?classId=2',
+			proxy: 'http://192.168.1.23:8080',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : '1.1.1.1',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
 		{
-            name: 'Power via su00400 (Backend 2)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://su00400.hvwan.net:80',
+            name: 'online (localhost)',
+			url: 'http://localhost/index.php',
+			proxy: 'http://localhost:80',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : 'localhost',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
         },
 		{
-            name: 'Power via su00281-172 (TAM External1)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://su00281-172.hvwan.net:80',
+            name: 'Google',
+			url: 'http://www.google.se',
+			proxy: 'http://www.google.se:80',
 			headers: {
-				'host' : 'power.husqvarnagroup.com',
+				'host' : 'www.google.se',
 				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
-			
-				},
-            timeout: 30
-        },
-		{
-            name: 'Power via su00281-173 (TAM External2)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://su00281-173.hvwan.net:80',
-			headers: {
-				'host' : 'power.husqvarnagroup.com',
-				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
-			
-				},
-            timeout: 30
-        },
-		{
-            name: 'Power via su00433-174 (TAM External4)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://webseal-hsq-174.hvwan.net:80',
-			headers: {
-				'host' : 'power.husqvarnagroup.com',
-				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
-			
-				},
-            timeout: 30
-        },
-		{
-            name: 'Power via su00433-173 (TAM External3)',
-			url: 'http://power.husqvarnagroup.com/webapp/wcs/stores/servlet/HomePageView?storeId=10201&catalogId=10051&langId=-1',
-			proxy: 'http://webseal-hsq-173.hvwan.net:80',
-			headers: {
-				'host' : 'power.husqvarnagroup.com',
-				'Pragma' : 'no-cache',
-				'Cookie' : 'COUNTRY=US; GEOIP_COUNTRY=US;',
+				'Cookie' : '',
 			
 				},
             timeout: 30
@@ -177,7 +129,7 @@ websites.forEach(function (website) {
         website: website.url,
 		proxy: website.proxy,
 		headers: website.headers,
-        timeout: website.timeout
+        timeout: timers
     });
     monitors.push(monitor);
 });
